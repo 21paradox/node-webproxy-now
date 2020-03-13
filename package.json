@@ -1,0 +1,17 @@
+{
+  "name": "webproxy-now",
+  "main": "",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard --fix"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nkn-sdk": "^1.0.3",
+    "serialize-error": "^2.1.0",
+    "standard": "^14.3.1"
+  }
+}
